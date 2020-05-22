@@ -29,7 +29,6 @@ def output_array(array)
   end
 end
 
-output_array("Be yourself;", "everyone else is already taken", "- Oscar Wilde")
 
 
 def return_string_array

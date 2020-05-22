@@ -20,7 +20,8 @@ end
 loop_message_n_times("Hello Moon", 5)
 loop_message_n_times("Hello Red Balloon", 10)
 
-def output_array
+def output_array(array)
+  
   
 end
 

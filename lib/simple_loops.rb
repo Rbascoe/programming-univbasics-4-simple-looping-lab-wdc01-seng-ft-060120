@@ -21,9 +21,16 @@ loop_message_n_times("Hello Moon", 5)
 loop_message_n_times("Hello Red Balloon", 10)
 
 def output_array(array)
-  
-  
+  count = 0 
+  while count <
+  array.length do
+    puts array[count]
+    count += 1
+  end
 end
+
+output_array("Be yourself;", "everyone else is already taken", "- Oscar Wilde")
+output_array()
 
 def return_string_array
   

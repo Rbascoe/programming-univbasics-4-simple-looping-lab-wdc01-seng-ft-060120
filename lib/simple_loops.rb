@@ -1,5 +1,5 @@
 # Write your methods here
-def loop_message_five_times(5)
+def loop_message_five_times()
     puts "Hello World."
 end 
 

@@ -1,11 +1,6 @@
 # Write your methods here
-def loop_message_five_times()
-   counter = 0
- 
-  while counter < 5 do
+def loop_message_five_times(5)
     puts "Hello World."
-    counter += 1
-  end
 end 
 
 def loop_message_n_times

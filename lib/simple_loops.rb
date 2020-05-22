@@ -18,7 +18,7 @@ def loop_message_n_times(message, limit)
 end
 
 loop_message_n_times("Hello Moon", 5)
-loop_message_n_times("Hello")
+loop_message_n_times("Hello Red Balloon", 10)
 
 def output_array
   
